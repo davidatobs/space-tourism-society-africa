@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 88" fill="none" aria-hidden="true">
+  <!-- Clean crisp vector rendition of STSA's Africa + Orbital Globe + Satellite + Rocket emblem -->
+  <path d="M27.5 14.5c6.5-4.2 17.8-4.6 25.4-1.2 4.6 2.1 7.6 6.2 10.9 10.4 2.8 3.6 6.2 7.1 8.8 10.8 2.2 3.1 4.1 6.1 1.4 8.9-2.4 2.5-5.6 4.7-6.9 8.4-1.5 4.2-.8 9.2-2.7 13.4-2.1 4.6-6.2 8.2-9.6 11.8-3.1 3.2-6.8 5.2-10.8 4.4-3.2-.7-4.8-4.2-5.6-7.6-.9-3.9-1.2-8.2-2.6-12.1-1.3-3.6-2.9-7.1-4.8-10.2-2.6-.3-6.4 1.1-9.6-.2-4.8-1.9-8.2-7.4-8.4-13.2-.2-6.8 3.4-13.8 9.2-18.9 1.7-1.5 3.4-3.4 5.3-4.7Z" stroke="#E2E8F0" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M73.5 64.5c2.2-1.8 4.2-.4 4.1 2.2-.1 3.1-1.6 6.8-3.8 8.6-1.8 1.4-3.6.3-3.4-2.1.2-3 1.3-6.9 3.1-8.7Z" stroke="#E2E8F0" stroke-width="2.1"/>
+  <circle cx="46" cy="40" r="18.5" fill="#164E78"/>
+  <path d="M31.5 51.2c10.6 3.8 23.6-2.2 31.8-14.4-2.1 11.8-13.8 21.8-26.4 18.6-2.1-.5-3.9-2.1-5.4-4.2Z" fill="#22A6E6"/>
+  <path d="M27.2 48.6c12.4 5.1 27.6-2.4 39.2-17.8" stroke="#FFFFFF" stroke-width="2.8" stroke-linecap="round"/>
+  <g transform="translate(23 15) rotate(43)">
+    <rect x="0" y="3.2" width="11" height="5.6" rx="1" fill="#94A3B8" stroke="#F8FAFC" stroke-width="1"/>
+    <rect x="13" y="1.8" width="6.8" height="8.4" rx="1.2" fill="#38BDF8" stroke="#F8FAFC" stroke-width="1"/>
+    <rect x="21.8" y="3.2" width="11" height="5.6" rx="1" fill="#94A3B8" stroke="#F8FAFC" stroke-width="1"/>
+    <path d="M16.4 1.8c2.6-3.4 6.8-3.4 9.4 0Z" fill="#7DD3FC"/>
+  </g>
+  <g transform="translate(65 21) rotate(38)">
+    <path d="M4 0c2.2 2.6 2.8 5.8 2.4 9.2H1.6C1.2 5.8 1.8 2.6 4 0Z" fill="#F8FAFC"/>
+    <path d="M4 0c1.1 1.3 1.7 2.7 2 4.2H2C2.3 2.7 2.9 1.3 4 0Z" fill="#EF4444"/>
+    <path d="M1.6 7.2L0 10.2h2.2M6.4 7.2L8 10.2H5.8" stroke="#EF4444" stroke-width="1.3" stroke-linecap="round"/>
+  </g>
+  <path d="M32 63.5c6.5-2.2 13.5 2.4 20.5 1.2M34 68.5c5.8-1.8 11.8 2.1 17.8 1.1M36.5 73.5c4.6-1.3 9.2 1.6 13.8.9" stroke="#94A3B8" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
